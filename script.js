@@ -44,5 +44,5 @@ pauziraj.addEventListener('click', function(){
 })
 
 viber.addEventListener('click', function(){
-    viber.setAttribute('href', "viber://forward?text=https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_11732_stream_337508088")
+    viber.setAttribute('href', "viber://forward?text=https://una-butik.github.io/radio/")
 })
