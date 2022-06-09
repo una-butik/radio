@@ -16,7 +16,9 @@ pusti.addEventListener('click', function(){
 //    audio.play();
 
 
-        audio.src = "https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_11732_stream_337508088";
+        // audio.src = "https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_11732_stream_337508088"; //stari server
+        audio.src = "https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=9012&type=s1"; //novi server
+
 
     audio.play();
 
